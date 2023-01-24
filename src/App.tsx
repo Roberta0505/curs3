@@ -27,7 +27,7 @@ function App() {
 
   let v = [];
 
-  let keys = ["buton1", "buton2", "buton3"];
+  let keys = ["buton1", "buton2", "butonaltfel"];
 
   for (let k of keys) {
     if (buttonPressed !== k) {
